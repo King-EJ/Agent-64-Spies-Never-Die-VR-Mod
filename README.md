@@ -84,6 +84,10 @@ TIPS
 * TurnMode = Game makes the right stick turn the game's own camera instead (your in-game body
   turns too); its speed is [Input] MouseTurnSpeed.
 
+Issues
+------
+bullets hit enemy but the bullet trace is above you but laser point to enemy
+
 CREDITS & LICENCES
 ------------------
 * Agent 64: Spies Never Die belongs to its developer Replicant D6.
