@@ -28,6 +28,8 @@ INSTALL
    You should end up with   BepInEx\plugins\A64VR\A64VR.dll   and   BepInEx\plugins\A64VR\OpenXR.dll
 3. Start SteamVR (or your OpenXR runtime), then launch the game.
 
+To disable Mod: rename winhttp.dll to winhttp.dll.bak or  win http.dll  (or set enabled = false in doorstop_config.ini).
+
 CONTROLS (right-handed default)
 -------------------------------
 Right trigger ........ Attack (fire)
